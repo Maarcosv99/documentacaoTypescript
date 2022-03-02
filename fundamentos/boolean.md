@@ -2,7 +2,7 @@
 
 Os tipos booleanos que recebem os valores `true` ou `false`, são identificados pelo Typescript quando você define `boolean`
 
-```
+```typescript
 let a: boolean = false
 
 console.log(false)

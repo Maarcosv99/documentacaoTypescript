@@ -12,15 +12,17 @@ coverY: 0
 
 
 
-### Para quem é recomendado?
+## Para quem é recomendado?
 
-Para quem possui um conhecimento prévio em Javascript ou vem de outra linguagem e deseja entender como  funciona o Typescript.
-
-
-
-**Não é para iniciante.**
+**Não é para iniciante.** Recomendo para quem possui conhecimento prévio em Javascript e deseja entender como  funciona o Typescript.
 
 
 
 Treine o seu conhecimento através do Playground de Typescript:\
 [https://www.typescriptlang.org/play](https://www.typescriptlang.org/play)
+
+
+
+## Porque Typescript?
+
+O Typescript além de diminuir os erros de sua aplicação devido a forte tipagem ele também uma validação do código digitado e nos fornece dicas e possíveis problemas.

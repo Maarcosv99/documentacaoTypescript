@@ -2,7 +2,7 @@
 
 Declarando variáveis do tipo `string` para ter acesso a métodos como `.toUpperCase()`
 
-```
+```typescript
 const firstName: string = "Marcos"
 console.log(firstName.toUpperCase())
 
